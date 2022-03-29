@@ -1,1 +1,2 @@
 # SystemConsole
+This is a C program that uses the layout of the fnaf 3 console, where you can move the cursor with 'w' and 's' and also hit enter to restart a system. These systems erroring affects the computer, and it was made on and for MacOS. It can disable your internet, sound and it can make your display dark (and flash slightly) randomly. The chance can be tweaked. The brightness modifier requires a brightness console command, which you can get with homebrew by doing 'brew install brightness'
