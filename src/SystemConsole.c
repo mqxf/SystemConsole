@@ -4,7 +4,7 @@
  Author      : Maxim Savenkov
  Version     :
  Copyright   : © Maxim Savenkov 2022
- Description : Hello World in C, Ansi-style
+ Description : System Restart Menu
  ============================================================================
  */
 
